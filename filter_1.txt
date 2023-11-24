@@ -1,15 +1,11 @@
 !
 ! Title: Winni's Phishing/SCAM/Malware block list
 ! Description: List of websites that are used for malware, phising and scams
-! Homepage: https://github.com/wneessen/ScamBlocklist/new/main
-! Last modified: 2023-11-23T16:10:00.000Z
+! Homepage: https://github.com/wneessen/ScamBlocklist
+! License: MIT
+! Last modified: 2023-11-24T12:41:53.640Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.23
 !
-!
-! Source name: Winni's Phishing/SCAM/Malware block list
-! Source: https://raw.githubusercontent.com/wneessen/ScamBlocklist/main/filter_1.txt
-!
-# START HOSTS LIST ### DO NOT EDIT THIS LINE AT ALL ###
 ||www.ohiosamishcountry.com^
 ||tracking-dpd.de^
