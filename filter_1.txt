@@ -3,23 +3,17 @@
 ! Description: List of websites that are used for malware, phising and scams
 ! Homepage: https://github.com/wneessen/ScamBlocklist
 ! License: MIT
-! Last modified: 2024-01-04T10:40:59.647Z
+! Last modified: 2024-01-04T10:44:40.452Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.23
 !
 ||www.ohiosamishcountry.com^
 ||tracking-dpd.de^
-
 ||898097.com^
-
 ||hermes-lieferung.com^
-
 ||lotus-flower.co.za^
-
 ||verstehengehen.today^
 ||gnawstamps.com^
 ||marginden.world^
-
-
 ||s9p5z.wonderpublish.co.in^
 ||suaned.com^
