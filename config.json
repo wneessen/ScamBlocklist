@@ -8,8 +8,8 @@
       "name": "Local rules",
       "source": "source.rules",
       "type": "adblock",
-      "transformations": ["RemoveComments", "Compress"]
+      "transformations": ["RemoveComments", "Compress", "RemoveEmptyLines", "InsertFinalNewLine", "Validate"]
     }
   ],
-  "transformations": ["RemoveComments", "Deduplicate", "Compress"]
+  "transformations": ["RemoveComments", "Deduplicate", "Compress", "RemoveEmptyLines", "InsertFinalNewLine", "Validate"]
 }
