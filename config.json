@@ -1,0 +1,15 @@
+{
+  "name": "Winni's Phishing/SCAM/Malware block list",
+  "description": "List of websites that are used for malware, phising and scams",
+  "homepage": "https://github.com/wneessen/ScamBlocklist",
+  "license": "MIT",
+  "sources": [
+    {
+      "name": "Local rules",
+      "source": "source.rules",
+      "type": "adblock",
+      "transformations": ["RemoveComments", "Compress", "RemoveEmptyLines", "InsertFinalNewLine", "Validate"]
+    }
+  ],
+  "transformations": ["RemoveComments", "Deduplicate", "Compress", "RemoveEmptyLines", "InsertFinalNewLine", "Validate"]
+}

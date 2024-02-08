@@ -1,3 +1,2 @@
 # ScamBlocklist
-
- My personal DNS blocklist for AdGuard 
+My personal DNS blocklist for AdGuard
