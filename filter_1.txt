@@ -3,7 +3,7 @@
 ! Description: List of websites that are used for malware, phising and scams
 ! Homepage: https://github.com/wneessen/ScamBlocklist
 ! License: MIT
-! Last modified: 2024-03-07T08:57:27.615Z
+! Last modified: 2024-03-08T09:53:46.972Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.23
 !
@@ -47,6 +47,8 @@
 ||ifjhbjfiazi.top^
 ||natwaves.com^
 ||www.capazity.com^
+||aimsitconsulting.com^
+||verificationcaptchaforhuman.com^
 ||links.truthsocial.com^
 ||ko.gl^
 ||noushka.ru^
