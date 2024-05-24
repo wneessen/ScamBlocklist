@@ -3,7 +3,7 @@
 ! Description: List of websites that are used for malware, phising and scams
 ! Homepage: https://github.com/wneessen/ScamBlocklist
 ! License: MIT
-! Last modified: 2024-05-15T16:23:25.630Z
+! Last modified: 2024-05-24T10:47:06.290Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.23
 !
@@ -36,6 +36,7 @@
 ||img18.xyz^
 ||online-banking-tf.duckdns.org^
 ||momentumhosting.cloud^
+||sicherheitsuberprufung07.web.app^
 ||miped.ru^
 ||correiosbraziliadimanikikom.questionpro.com^
 ||bingolguncel.tv^
@@ -51,6 +52,7 @@
 ||kartenabrechnung-miles-n-m.digital^
 ||riegotec.com.py^
 ||zugang-verfahren.info^
+||benachrichtigungs-db.de^
 ||apatosaurelecampane.space^
 ||amzsa21ck.iumfragen.com^
 ||ifjhbjfiazi.top^
