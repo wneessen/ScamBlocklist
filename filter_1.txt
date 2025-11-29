@@ -3,9 +3,9 @@
 ! Description: List of websites that are used for malware, phising and scams
 ! Homepage: https://github.com/wneessen/ScamBlocklist
 ! License: MIT
-! Last modified: 2024-07-18T07:17:05.158Z
+! Last modified: 2025-11-29T17:00:39.603Z
 !
-! Compiled by @adguard/hostlist-compiler v1.0.23
+! Compiled by @adguard/hostlist-compiler v1.0.39
 !
 ||www.ohiosamishcountry.com^
 ||tracking-dpd.de^
@@ -77,3 +77,5 @@
 ||eventbrite.cafe^
 ||netrenewonline.com^
 ||bassatis.e-skafos.gr^
+||abouji.netexpresshn.com^
+||pub-141fd4619fcc44109ff3bcc481e358b2.r2.dev^
