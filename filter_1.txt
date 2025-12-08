@@ -3,7 +3,7 @@
 ! Description: List of websites that are used for malware, phising and scams
 ! Homepage: https://github.com/wneessen/ScamBlocklist
 ! License: MIT
-! Last modified: 2025-12-03T08:52:03.178Z
+! Last modified: 2025-12-08T15:56:00.987Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.39
 !
@@ -94,3 +94,4 @@
 ||atelta.inmoconectahn.com^
 ||tkjouj.netexpresshn.com^
 ||mails.market-places.de^
+||click.optimistischtips.de^
