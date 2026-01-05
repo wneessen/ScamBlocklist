@@ -3,8 +3,12 @@
 ! Description: List of domains that TCL smart TVs send data to
 ! Homepage: https://github.com/wneessen/ScamBlocklist
 ! License: MIT
-! Last modified: 2026-01-05T13:39:45.003Z
+! Last modified: 2026-01-05T13:46:07.613Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.39
 !
-||on-hweudc-o.api.leiniao.com^
+||leiniao.com
+||tcl.com
+||tcllauncher.com
+||cedock.com
+||huan.tv
