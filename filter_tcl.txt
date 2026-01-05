@@ -1,0 +1,10 @@
+!
+! Title: Winni's TCL smart TV block list
+! Description: List of domains that TCL smart TVs send data to
+! Homepage: https://github.com/wneessen/ScamBlocklist
+! License: MIT
+! Last modified: 2026-01-05T13:39:17.654Z
+!
+! Compiled by @adguard/hostlist-compiler v1.0.39
+!
+||on-hweudc-o.api.leiniao.com^
